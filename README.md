@@ -1,2 +1,2 @@
 # SortM
-A ROBLOX sorting module
+A ROBLOX module script for quick access to sorting functions, and algorithms.
